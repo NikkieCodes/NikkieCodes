@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikkieCodes
-- 👀 I’m interested in PHP, Python
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in PHP, Python, C#
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me https://nikkiedev.com
 
